@@ -1,7 +1,7 @@
-Project Name : Quiz Game
 Welcome to Elite Quiz Game
 
 INSTRUCTIONS FOR PLAYING ELITE QUIZ GAME
+
 1.There are 2 rounds in this Quiz Game
 2.In first round You will be asked 4 questions
 3.For each question You will be given 4 options and you have to press A, B ,C or D for the right answer
