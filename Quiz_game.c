@@ -129,7 +129,7 @@ printf("\n____________________________________________________________\n");
                                  switch(ch2)
                                  {
                                  case 1:
-                                 printf("\nQ.5)Who was the First Lady of USA? \n");
+                                 printf("\nQ.5)Who was the first 'First Lady' of USA? \n");
                                  printf("\n\nA. Hillary Washington\t B. Michelle Obama\nC. Martha Washington\t D. Hillary Clinton\n\n");
                                  printf("Select your option:- ");
                                  if(toupper(getch())=='C')
